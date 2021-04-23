@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nkurns
-- 👀 I’m interested in lots of different things.  Coding-wise I'm learning app development with iOS and Swift
+- 👀 I’m interested in lots of different things. Mandolin player, trail-runner, soccer hooligan and tball coach. Coding-wise I'm learning app development with iOS and Swift
 - 🌱 I’m currently learning SwiftUI, networking and persistence.
 - 💞️ I’m looking to collaborate on interesting games.
 - 📫 How to reach me on twitter @BNekut or email nick.kurns@gmail.com
